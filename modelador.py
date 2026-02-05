@@ -5,4 +5,6 @@ def montar_torneio(times, jogos_restantes, alvo_idx):
     # Esta parte traduz a tabela do campeonato para o Grafo
     # Exemplo simplificado de retorno:
     # return grafo_montado, fluxo_necessario_para_nao_ser_eliminado
+    # Obs: se possivel entregarem uma função que receba apenas uma lista de times e retorne o objeto Grafo prontinho.
+    
     pass
