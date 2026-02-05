@@ -7,6 +7,6 @@ Este projeto utiliza o algoritmo de Edmonds-Karp (uma implementação do método
 Diferente de uma análise simples de pontos, este sistema modela o torneio como uma Rede de Fluxo. A eliminação é confirmada quando o fluxo máximo da rede não é suficiente para "saturar" todas as arestas que representam as partidas restantes.
 
 🛠️ Tecnologias
-Linguagem: Python 3.x
+Linguagem: Python
 
 Dependências: Nenhuma (projeto desenvolvido puramente com estruturas nativas para fins acadêmicos).
