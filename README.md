@@ -1,4 +1,4 @@
-# algoritmo-edmonds-karp-grafos
+# algoritmo-edmonds-karp
 
 Edmonds-Karp Tournament Elimination ou Eliminação em Torneios (Edmonds-Karp)
 
